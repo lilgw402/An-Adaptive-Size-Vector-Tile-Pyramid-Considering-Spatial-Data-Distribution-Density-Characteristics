@@ -1,1 +1,1 @@
-# An-Adaptive-Size-Vector-Tiles-Pyramid-Considering-Spatial-Data-Distribution-Density-Characteristics
+# An-Adaptive-Size-Vector-Tile-Pyramid-Considering-Spatial-Data-Distribution-Density-Characteristics
