@@ -1,4 +1,4 @@
-# An-Adaptive-Size-Vector-Tile-Pyramid-Considering-Spatial-Data-Distribution-Density-Characteristics
+# An-Adaptive-Size-Vector-Tile-Pyramid-Construction-Method-Considering-Spatial-Data-Distribution-Density-Characteristics
 
 ## Introduction
 
