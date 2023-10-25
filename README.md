@@ -37,4 +37,4 @@ Our approach consists of three main steps:
 
 ## Results
 
-The data that support the findings of this study are openly available at http://doi.org/ 10.6084/m9.figshare.24407779, reference number 24407779. 
+The data that support the findings of this study are openly available at http://doi.org/10.6084/m9.figshare.24407779, reference number 24407779. 
